@@ -2,11 +2,11 @@
 using System.Net.Http.Headers;
 
 Console.WriteLine("Hello, World!");
-//string first = string.Empty;
-//string Second = string.Empty;
-//string third = string.Empty;
-//first = "";
-//Second = "";
+string first = string.Empty;
+string Second = string.Empty;
+string third = string.Empty;
+first = "";
+Second = "";
 //third = "";
 //Console.WriteLine(first ?? Second ?? third ?? "Four");
 //Console.WriteLine(!string.IsNullOrWhiteSpace(first) ? first : !string.IsNullOrWhiteSpace(Second) ? Second : 
